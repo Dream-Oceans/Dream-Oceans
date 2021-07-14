@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dream-Oceans
 - 👀 I’m interested in ... Dreaming
-- 🌱 I’m currently learning ... Webddevelopment
+- 🌱 I’m currently learning ... Web development
 - 💞️ I’m looking to collaborate on ... Nothing
 - 📫 How to reach me ... Telekineses
 
